@@ -1,0 +1,3 @@
+I(Jaspreet Singh) worked with Agam Bhullar and use geeks for greek for online support regarding java syntax and some code.
+
+Sources used were geeks for geeks, w3schools, chegg, stack overflow and partnering with another student. The sources were used to help with the diagram and some of the syntax for converting c++ code mind to java. The sources helped me understand the difference in syntax between the languages and understand the diagram. The references did not interfere with my understanding in any way as I would see examples or syntax to help me with understanding better.
